@@ -13,7 +13,7 @@
 <br />
   
 ## アカウント作成手順
-1.  Chrome ブラウザで https://trainocate.qwiklabs.com/?locale=ja にアクセスします。
+1.  Chrome ブラウザで [https://trainocate.qwiklabs.com/?locale=ja](https://trainocate.qwiklabs.com/?locale=ja) にアクセスします。
     
 2.  画面右上の [参加] をクリックします。  
 
