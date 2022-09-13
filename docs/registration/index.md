@@ -29,11 +29,11 @@
     > **Note**  
     > 上の手順後、数分で自動返信メールが届きます。  
     >    
-    > From： [noreply@qwiklab.com](mailto:noreply@qwiklab.com)   
+    > From： noreply@qwiklab.com   
     > 件名 ： Qwiklabsへようこそ   
     > 
     > 自動返信メール上のQwikLabs 設定のURLは下記で表記されています。  
-    > [https://globalknowledge-jp.qwiklabs.com/](https://globalknowledge-jp.qwiklabs.com/)
+    > https://globalknowledge-jp.qwiklabs.com/
 
     ![](./img/registration3.png)
     
