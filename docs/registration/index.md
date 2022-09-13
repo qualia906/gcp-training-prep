@@ -17,12 +17,12 @@
     
 2.  画面右上の [参加] をクリックします。  
 
-    ![](https://lh6.googleusercontent.com/FuXH6hxD_tpo5L_8eXIHWh0dtBYokZtAlK5AmywRs7MmlPaIXipsQ-b1H6KuhsVULnhlCo3KiLxvZlfrqBO4gXZLEFtsISxkHNpkDRmPgAXXzSaDeWAmE1UOutyxaLrUO7nRAKYakmlfKeojHUti951dJKHaVBV2LbC1_dZ1yjIz7PQE5MZFTO-_3A)
+    ![](https://github.com/qualia906/gcp-training-prep/blob/338df457dce10558e926684d2c160858cbdcade0/docs/registration/img/regstration1.png)
     
 3.  表示されたフォームに各情報を入力し、利用規約同意のチェックの上、[アカウント作成] をクリックします。  
     下右図の赤枠内表記の通り、メールが送信されますのでメールの着信を確認します。  
 
-    ![](https://lh3.googleusercontent.com/HIxzMbC_-FkLan5QhmW_uc20_9FvKakylw0FFQCOKfdHYLnABkyZylXsv9x9tyvC0wry5FU2t_u2b1incmjqrsa0IKeyp60b4i8CjZlMzX_q0RCAHs1R0zzPXzVay63pG_e3AzKzYAX9k_fIMz58mUQPvrJqgNJ01soyIATaRIMo49y9Us2mevuoPg)  
+    ![](https://github.com/qualia906/gcp-training-prep/blob/338df457dce10558e926684d2c160858cbdcade0/docs/registration/img/registration2.png)  
  
 
 4.  下図のようなメールが届きますので、[メールアドレスを確認] をクリックしてアカウントの作成は完了です。 
@@ -35,6 +35,6 @@
     > 自動返信メール上のQwikLabs 設定のURLは下記で表記されています。  
     > [https://globalknowledge-jp.qwiklabs.com/](https://globalknowledge-jp.qwiklabs.com/)
 
-    ![](https://lh6.googleusercontent.com/_2svFf71gxswdRwQy6e774njSVGsl0yOlH6jJeJ8ixAWaol20baV4R_KPSbvg7FAQNPd987xTmUx7h21uI9GE2wMnbORKqLPosDiQAzQ1ulSU5RFZ6VOIdZdlwZqTMxVnk8zS4zpmIC1ac42xsixfFpjSP_qdpFtqfxq9rLyaOnMXVa5phpTrCjA7g)
+    ![](https://github.com/qualia906/gcp-training-prep/blob/338df457dce10558e926684d2c160858cbdcade0/docs/registration/img/registration3.png)
     
 5.  念のため、ご受講日までに作成したアカウントで Qwiklabs にログインできることを確認してください。
